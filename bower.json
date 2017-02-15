@@ -1,0 +1,15 @@
+{
+  "name": "TypischTouristik/static-airlines",
+  "homepage": "https://github.com/TypischTouristik/static-airlines",
+  "authors": [
+    "Simon Milz <simon.milz@typisch-touristik.de>"
+  ],
+  "description": "List of all available airlines with name, code, coutry and logo.",
+  "main": "airlines.css",
+  "keywords": [
+    "airline",
+    "static",
+    "tourism"
+  ],
+  "license": "MIT"
+}
