@@ -45,9 +45,7 @@ Code,Fluggesellschaft,Land,Bemerkung
 2N,Nextjet,Schweden,
 2P,PAL Express,Philippinen,früherer Name Airphil Express und Air Philippines
 2Q,Air Cargo Carriers,USA,
-2R,Star Airlines,Frankreich,"2006 umfirmiert zu XL Airways France, neuer Code: SE"
 2S,Island Express,USA,
-2U,AtlasJet,Türkei,"2015 umfirmiert zu AtlasGlobal, neuer Code: KK"
 2U,Sun d’Or International Airlines,Israel,"Entzug der Betriebserlaubnis 2011, seitdem Durchführung der Flüge durch die Muttergesellschaft El Al"
 2V,Amtrak,USA,"Eisenbahngesellschaft, Rail&Fly"
 2W,Welcome Air,Österreich,Code nicht mehr genutzt
@@ -59,18 +57,14 @@ Code,Fluggesellschaft,Land,Bemerkung
 3D,Dokasch Air Cargo Equipment,Deutschland,
 3E,Air Choice One,USA,
 3F,Pacific Airways,USA,
-3G,Atlant-Soyuz Airlines,Russland,2010 umfirmiert zu Moscow Airlines
 3G,Gading Sari,Malaysia,
 3H,Air Inuit,Kanada,
 3J,Jubba Airways (Kenia),Kenia,
 3K,Jetstar Asia Airways,Singapur,
-3K,Tatonduk Flying Service,USA,umfirmiert zu Everts Air
-3M,Gulfstream International Airlines,USA,umfirmiert zu Silver Airways
 3M,Silver Airways,USA,
 3N,Air Urga,Ukraine,
 3O,Air Arabia Maroc,Marokko,
 3P,Tiara Air,Aruba,
-3Q,China Yunnan Airlines,China,in China Eastern Airlines integriert
 3R,Avior Regional,Venezuela,
 3S,Aerologic,Deutschland,Joint Venture von DHL und Lufthansa
 3S,Air Antilles Express,Guadeloupe,
@@ -86,7 +80,6 @@ Code,Fluggesellschaft,Land,Bemerkung
 4A,Air Kiribati,Kiribati,
 4B,Boutique Air,USA,
 4B,Perimeter Aviation,Kanada,neuer Code: YP
-4C,AIRES,Kolumbien,umfirmiert zu LAN Colombia
 4C,LAN Colombia,Kolumbien,
 4D,Air Sinai,Ägypten,
 4E,Stabo Air,Sambia,
@@ -103,14 +96,11 @@ Code,Fluggesellschaft,Land,Bemerkung
 4N,Air North,Kanada,
 4O,Interjet,Mexiko,
 4P,Travel Air,Papua-Neuguinea,
-4Q,Air Italy Polska,Polen,2011 umfirmiert zu Air Poland
 4Q,Safi Airways,Afghanistan,
 4R,Royal Flight Airlines,Russland,neuer Code: RL
 4S,Solar Cargo,Venezuela,
-4T,Belair Airlines AG,Schweiz,ehemals Balair – 2007 übernommen von Air Berlin
 4U,Germanwings,Deutschland,Betrieb durch Eurowings fortgesetzt
 4U,Tavaj Linhas Aereas,Brasilien,
-4V,Birdy Airlines,Belgien,2004 aufgegangen in SN Brussels Airlines
 4V,Voyageur Airways,Kanada,Code nicht mehr genutzt
 4W,Allied Air,Nigeria,
 4W,Warbelow’s Air Ventures,USA,
@@ -122,8 +112,6 @@ Code,Fluggesellschaft,Land,Bemerkung
 5B,Trans International Express,USA,Code nicht mehr genutzt
 5C,CAL Cargo Airlines,Israel,
 5D,Aerolitoral,Mexiko,
-5D,Dutchbird,Niederlande,Betriebseinstellung 2004
-5E,Base Airlines,Niederlande,Betriebseinstellung 2001
 5E,East Coast Flight Services,USA,
 5F,Arctic Circle Air Service,USA,Code wird seit 2011 nicht mehr genutzt
 5H,Fly540,Kenia,
@@ -142,12 +130,8 @@ Code,Fluggesellschaft,Land,Bemerkung
 5W,WESTbahn Management,Österreich,Eisenbahngesellschaft
 5X,UPS Airlines,USA,
 5Y,Atlas Air,USA,
-5Y,Isles of Scilly Skybus,Vereinigtes Königreich,Code wird nicht mehr verwendet
 5Z,CemAir,Südafrika,
 6A,Armenia Airways,Armenien,geplante Betriebsaufnahme fand nicht statt
-6B,Blue Scandinavia,Schweden,"1998 umfirmiert zu Britannia Airways, AB"
-6B,Britannia Airways AB,Schweden,2005 umfirmiert zu Thomsonfly AB
-6B,Thomsonfly AB,Schweden,2006 umfirmiert zu TUIfly Nordic
 6B,TUIfly Nordic,Schweden,
 6C,Cape Smythe Air Service,USA,
 6D,Pelita Air Service,Indonesien,Code nicht mehr genutzt
@@ -157,22 +141,15 @@ Code,Fluggesellschaft,Land,Bemerkung
 6G,Sun Air Express,USA,
 6H,Israir,Israel,
 6I,Air Alsie,Dänemark,
-6J,Jubba Airways (Somalia),Kenia,Code wird nicht mehr genutzt
 6J,Solaseed Air,Japan,
-6K,Asian Spirit,Philippinen,"2008 umfirmiert in Zest Airlines, später AirAsia Zest"
 6K,Songbird Airways,USA,
 6L,Aklak Air,Kanada,
-6M,South Asia Airlines,Bangladesch,Code wird nicht mehr genutzt
-6M,Zacarías Moreno (Frigocontainer),Spanien,keine Fluggesellschaft
-6N,Aerosucre,Kolumbien,Code wird nicht mehr genutzt
 6N,Niger Airlines,Niger,
 6T,Air Mandalay,Myanmar,
 6U,Unique Air,USA,
-6V,Grupo Avanza,Spanien,"keine Fluggesellschaft, Fernbusverkehr"
 6W,Saravia / Saratov Airlines,Russland,
 6Y,SmartLynx Airlines,Lettland,
 6Z,Euro-Asia Air,Kasachstan,
-7A,Alaska Coastal Airlines,USA,aufgegangen in Alaska Airlines
 7B,Fly Blue Crane,Südafrika,
 7C,Coyne Airways,Vereinigtes Königreich,Code nicht mehr genutzt
 7C,Jeju Air,Südkorea,
@@ -181,67 +158,44 @@ Code,Fluggesellschaft,Land,Bemerkung
 7F,First Air,Kanada,
 7G,StarFlyer,Japan,
 7H,Corvus Airlines,USA,
-7H,Era Alaska,USA,2014 umfirmiert zu Corvus Airlines
-7H,Era Aviation,USA,2010 umfirmiert zu Era Alaska
 7J,Tajikistan Airlines,Tadschikistan,
-7J,CSafe Global,USA,keine Fluggesellschaft
-7L,Aerocaribbean,Kuba,2015 fusioniert mit Cubana
 7L,Silk Way West Airlines,Aserbaidschan,
 7M,MAYair,Mexiko,
 7M,Mistral Air,Italien,neuer Code: M4
-7N,Inland Aviation Services,USA,Code wird nicht mehr genutzt
 7N,PAWA Dominicana,Dominikanische Republik,
 7P,Air Panama,Panama,
 7Q,Elite Airways,USA,
-7Q,Sundance Air Venezuela,Venezuela,Code wird nicht mehr genutzt
 7R,RusLine,Russland,
 7S,Arctic Transportation Services,USA,
-7T,Air Glaciers,Schweiz,Code wird nicht mehr genutzt
 7T,Aero Express del Ecuador,Ecuador,im Außenauftritt DHL Ecuador
 7U,Commercial Aviation Services,USA,
 7V,Federal Air,Südafrika,
 7W,Wind Rose Aviation,Ukraine,
 7Y,Mann Yadanarpon Airlines,Myanmar,
-7Y,Med Airways,Libanon,Code wird nicht mehr genutzt
-7Y,Mid Airlines,Sudan,Code wird nicht mehr genutzt
 7Z,Ameristar Air Cargo,USA,
 8A,Panama Airways,Panama,
-8B,Business Air,Thailand,2015 umfirmiert zu Intira Airlines
 8B,TransNusa Air Services,Indonesien,
 8C,Air Transport International,USA,
-8C,Cotai Water Jet,China,"keine Fluggesellschaft, Wassertaxi"
-8C,Shan Xi Airlines,China,2009 aufgegangen in Hainan Airlines
-8D,Expo Aviation,Sri Lanka,umfirmiert zu FitsAir
 8D,FitsAir,Sri Lanka,
-8D,Servant Air,USA,Code wird nicht mehr genutzt
 8E,Bering Air,USA,
 8E,Easy Fly Express,Bangladesch,
 8F,Cardig Air,Indonesien,
 8F,STP Airways,São Tomé und Príncipe,
-8G,Gulf & Caribbean Cargo,USA,Code wird nicht mehr verwendet
 8G,Mid Africa Aviation,Gambia,
 8H,BH Air,Bulgarien,
 8H,Equaflight Service,Republik Kongo,neuer Code: E7
 8I,InselAir Aruba,Aruba,
 8J,EcoJet,Bolivien,
-8J,Kominteravia,Russland,Code wird nicht mehr verwendet
 8K,K-Mile Air,Thailand,
 8L,Lucky Air,China,
 8M,Myanmar Airways International,Myanmar,
 8N,Aerodynamics,USA,
-8N,Nordkalottflyg,Schweden,2006 umfirmiert zu Barents AirLink
 8N,Regional Air Services,Tansania,
-8O,West Coast Air,Kanada,Code wird nicht mehr genutzt
 8P,Pacific Coastal Airlines,Kanada,
-8P,Payam Aviation Services,Iran,Code wird nicht mehr genutzt
-8Q,Baker Aviation,USA,Code wird nicht mehr genutzt
 8Q,Onur Air,Türkei,
-8S,Shun Tak-China Travel Ship,China,"keine Fluggesellschaft, Wassertaxi"
 8T,Air Tindi,Kanada,
 8U,Afriqiyah Airways,Libyen,
 8V,Astral Aviation,Kenia,
-8V,Wright Air Service,USA,Code wird nicht mehr genutzt
-8W,BAX Global,USA,Code wird nicht mehr genutzt
 8Y,Astro Air International,Philippinen,
 9A,Eaglexpress Air Charter,Malaysia,
 9B,AccesRail,Kanada,Anbieter von Bahnfahrkarten für Reisen in Europa
@@ -263,7 +217,6 @@ Code,Fluggesellschaft,Land,Bemerkung
 9R,SATENA,Kolumbien,
 9S,Southern Air,USA,
 9T,MyCargo Airlines,Türkei,
-9T,Transwest Air,Kanada,Code wird nicht mehr genutzt
 9U,Air Moldova,Moldawien,
 9V,Avior Airlines,Venezuela,
 9W,Jet Airways,Indien,
@@ -278,12 +231,10 @@ A9,Georgian Airways,Georgien,
 AA,American Airlines,USA,
 AB,Air Berlin,Deutschland,
 AC,Air Canada,Kanada,
-AD,Air Paradise,Indonesien,Betriebseinstellung 2005
 AD,Avialeasing Aviation,Usbekistan,neuer Code: V2
 AD,Azul,Brasilien,
 AE,Mandarin Airlines,Taiwan,
 AF,Air France,Frankreich,
-AG,Air Contractors,Irland,2015 umfirmiert zu ASL Airlines Ireland
 AG,Air Ghana,Ghana,
 AG,Aruba Airlines,Aruba,
 AH,Air Algérie,Algerien,
@@ -291,10 +242,7 @@ AI,Air India,Indien,
 AJ,Aztec Airways,USA,
 AK,Air Asia,Malaysia,
 AL,Air Leisure,Ägypten,
-AL,Allegheny Airlines,USA,umfirmiert zu USAir
-AL,Trans Avia Export,Weißrussland,Code wird nicht mehr genutzt
 AM,Aeroméxico,Mexiko,
-AO,Aviaco,Spanien,1999 integriert in Iberia
 AP,Alba Star,Spanien,
 AQ,9 Air,China,
 AR,Aerolíneas Argentinas,Argentinien,
@@ -307,68 +255,40 @@ AX,Trans States Airlines,USA,
 AY,Finnair,Finnland,
 AZ,Alitalia,Italien,
 B0,La Compagnie,Frankreich,
-B1,Bravo Passenger Solutions,Singapur,"keine Fluggesellschaft, Flugreservierungssystem"
 B2,Belavia,Weißrussland,
 B4,ZanAir,Tansania,
-B4,B.A.C.H. Flugbetrieb,Österreich,Code wird nicht mehr genutzt
-B4,Bankair,USA,Code wird nicht mehr genutzt
 B6,JetBlue Airways,USA,
 B7,Uni Air,Republik China (Taiwan),
 B8,Eritrean Airlines,Eritrea,
-B9,Iran Airtour,Iran,Code wird nicht mehr genutzt
 BA,British Airways,Vereinigtes Königreich,auch British Airways/Comair (Südafrika)
-BA,British Overseas Airways Corporation,Vereinigtes Königreich,1974 mit BEA zu British Airways fusioniert
 BB,Seaborne Airlines,Puerto Rico,
 BC,Skymark Airlines,Japan,
 BD,Cambodia Bayon Airlines,Kambodscha,
-BE,British European Airways,Vereinigtes Königreich,1974 mit BOAC zu British Airways fusioniert
 BE,Flybe,Vereinigtes Königreich,
-BE,Jersey European Airways,Vereinigtes Königreich,umfirmiert in Flybe
-BF,Bluebird Cargo,Island,Code wird nicht mehr genutzt
-BF,Aéro-Service,Republik Kongo,Code wird nicht mehr genutzt
 BG,Biman Bangladesh Airlines,Bangladesch,
-BH,Hawkair,Kanada,Code wird nicht mehr genutzt
 BI,Royal Brunei Airlines,Brunei,
-BJ,Bakhtar Afghan Airlines,Afghanistan,1988 aufgegangen in Ariana Afghan Airlines
 BJ,Nouvelair,Tunesien,
-BK,BKS Air Transport,Vereinigtes Königreich,1970 umfirmiert zu Northeast Airlines
 BK,Okay Airways,China,
 BL,JetstarPacific,Vietnam,
-BM,Aero Trasporti Italiani (ATI),Italien,1994 aufgegangen in Alitalia
 BM,bmi regional,Vereinigtes Königreich,
 BP,Air Botswana,Botswana,
-BR,British Caledonian Airways,Vereinigtes Königreich,1988 von British Airways übernommen
-BR,British United Airways,Vereinigtes Königreich,1970 zu British Caledonian Airways umfirmiert
 BR,EVA Air,Taiwan,
-BS,British International Helicopters,Vereinigtes Königreich,Code wird nicht mehr genutzt
-BS,CHC Scotia,Vereinigtes Königreich,Code wird nicht mehr genutzt
 BS,US-Bangla Airlines,Bangladesch,
 BT,AirBaltic,Lettland,
-BU,Braathens,Norwegen,umfirmiert zu SAS Norge
 BU,Compagnie Africaine d'Aviation,Demokratische Republik Kongo,
-BU,SAS Norge,Norwegen,2009 fusioniert mit SAS
 BV,Blue Panorama Airlines,Italien,
 BW,Caribbean Airlines,Trinidad und Tobago,
-BY,Britannia Airways,Vereinigtes Königreich,2005 umfirmiert zu Thomsonfly
-BY,Thomsonfly,Vereinigtes Königreich,2009 in Thomson Airways aufgegangen
 BY,Thomson Airways,Vereinigtes Königreich,
 BZ,Blue Bird Airways,Griechenland,
 BZ,Blue Dart Aviation,Indien,
-BZ,Keystone Air Services,Kanada,Code wird nicht mehr genutzt
-C1,Tectimes Sudamericana,Argentinien,keine Fluggesellschaft
 C1,CEIBA Intercontinental,Äquatorialguinea,
 C3,Trade Air,Kroatien,
 C4,Conquest Air Cargo,USA,
-C4,Zimex Aviation,Schweiz,Code wird nicht mehr genutzt
 C5,Commutair,USA,
 C6,CanJet Airlines,Kanada,
-C6,CHEP Aerospace Solutions,Schweiz,keine Fluggesellschaft
 C7,Cinnamon Air,Sri Lanka,
 C8,Cargolux Italia,Italien,
 CA,Air China,China,
-CA,CAAC,China,1987 umfirmiert zu Air China
-CA,Capital Airlines,USA,1961 aufgegangen in United Air Lines
-CB,Scot Airways,Vereinigtes Königreich,umfirmiert zu Suckling Airways
 CB,Trans Caribbean Air,USA,
 CC,Air Atlanta Icelandic,Island,
 CC,CM Airlines,Honduras,
@@ -379,143 +299,83 @@ CG,Airlines PNG,Papua-Neuguinea,
 CH,Bemidji Airlines,USA,
 CI,China Airlines,Taiwan,
 CJ,BA CityFlyer,Großbritannien,
-CJ,China Northern Airlines,China,aufgegangen in China Southern Airlines
 CK,China Cargo Airlines,China,
 CL,Lufthansa CityLine,Deutschland,
 CM,Copa Airlines,Panama,
 CN,Grand China Air,China,
-CN,Islands Nationair,Papua-Neuguinea,Code wird nicht mehr genutzt
-CO,Continental Airlines,USA,2011 fusioniert mit United Airlines
-CP,Canadian Airlines International,Kanada,2001 in Air Canada integriert
-CP,Canadian Pacific Air Lines,Kanada,1968 umfirmiert zu CP Air
 CP,Compass Airlines,USA,
-CP,CP Air,Kanada,1987 in Canadian Airlines aufgegangen
 CQ,Charterlines,Tansania,
 CQ,Coastal Aviation,Tansania,
-CQ,Sunshine Express Airlines,Australien,Code wird nicht mehr genutzt
-CR,OAG Worldwide Limited,Vereinigtes Königreich,keine Fluggesellschaft
-CS,Air One CityLiner,Italien,2011 umfirmiert in Alitalia CityLiner
-CS,Cambrian Airways,Vereinigtes Königreich,1976 in British Airways aufgegangen
 CT,Alitalia CityLiner,Italien,
 CU,Cubana,Kuba,
-CV,Air Chathams,Neuseeland,Code wird nicht mehr genutzt
 CV,Cargolux,Luxemburg,
 CW,Air Cargo Global,Slowakei,
-CW,Air Marshall Islands,Marshall-Inseln,Code wird nicht mehr genutzt
 CX,Cathay Pacific,Hongkong,
 CZ,China Southern Airlines,China,
 D0,DHL Air UK,Vereinigtes Königreich,
 D2,Severstal Air,Russland,
 D3,Daallo Airlines,Djibouti,
-D4,Alidaunia,Italien,Code wird nicht mehr genutzt
 D4,Dart Airlines,Ukraine,
 D5,DHL Aero Expreso,Panama,
 D6,Inter Air,Südafrika,
 D7,Airasia X,Malaysia,
-D8,Diamond Sakha Airlines,Russland,Code wird nicht mehr genutzt
 D8,Norwegian Air International,Irland,
-D9,Aeroflot-Don,Russland,2009 umfirmiert zu Donavia
 D9,Donavia,Russland,
-DA,Daily Air,Taiwan,Code wird nicht mehr genutzt
-DA,Dan-Air,Vereinigtes Königreich,1992 aufgegangen in British Airways
-DA,Air Georgia,Georgien,1999 aufgegangen in Georgian Airways
-DB,Brit Air,Frankreich,2013 aufgegangen in Hop!
 DC,BRA,Schweden,
-DC,Sverigeflyg,Schweden,Code wird nicht mehr genutzt
-DD,Atlantic Coast Jet,USA,Reintegriert in Atlantic Coast Airlines
 DD,Nok Air,Thailand,
 DE,Condor Flugdienst,Deutschland,
-DF,AeBal,Spanien,2008 umfirmiert zu Quantum Air
-DF,Condor Berlin,Deutschland,2013 integriert in Condor Flugdienst
-DG,Custom Air Transport,USA,Code wird nicht mehr genutzt
-DH,Atlantic Coast Airlines,USA,2004 umfirmiert zu Independence Air
-DH,DHL Aviation,Belgien,Code wird nicht mehr genutzt
 DH,Norwegian Air Norway,Norwegen,
-DI,Deutsche BA,Deutschland,2006 umfirmiert zu dba
 DI,Norwegian Air UK,Vereinigtes Königreich,
 DJ,AirAsia Japan,Japan,
 DJ,Virgin Australia,Australien,neuer Code: VA
-DK,Premiair,Dänemark,2002 umfirmiert zu MyTravel Airways A/S
-DK,MyTravel Airways,Dänemark,2008 umfirmiert zu Thomas Cook Airlines Scandinavia
 DK,Thomas Cook Airlines Scandinavia,Dänemark,
 DL,Delta Air Lines,USA,
 DM,Asian Air,Thailand,
-DM,Maersk Air,Dänemark,2005 in Sterling Airlines integriert
 DN,Sénégal Airlines,Senegal,
 DO,Air Vallée,Italien,neuer Code: VK
 DQ,Air Direct-Connect,Kenia,
-DQ,Coastal Air Transport,Amerikanische Jungferninseln,Code wird nicht mehr genutzt
 DR,Air Link,Australien,neuer Code: ZL
-DR,Hyeres Aero Service,Frankreich,Code wird nicht mehr genutzt
 DR,Ruili Airlines,China,
-DS,Das Nordisk,Hongkong,keine Fluggesellschaft
 DS,EasyJet Switzerland,Schweiz,
 DT,TAAG Angola Airways,Angola,
-DU,Hemus Air,Bulgarien,fusioniert mit Bulgaria Air
 DV,Aircompany SCAT,Kasachstan,
-DV,Lufttaxi Flug,Deutschland,Code wird nicht mehr genutzt
-DV,Nantucket Airlines,USA,Code wird nicht mehr genutzt
-DW,Aero Charter Ukraine,Ukraine,Code wird nicht mehr genutzt
-DW,Deutsche Luftverkehrsgesellschaft (DLT),Deutschland,1991 integriert in Lufthansa CityLine
 DW,Dominican Wings,Dominikanische Republik,
 DX,Danish Air Transport,Dänemark,
 DY,Norwegian Air Shuttle,Norwegen,
-DZ,Air Metro North,USA,Code wird nicht mehr genutzt
-DZ,Air Tropical,Frankreich,Code wird nicht mehr genutzt
 DZ,Donghai Airlines,China,
-DZ,Air Tropical,Frankreich,Code wird nicht mehr genutzt
-E3,Domodedovo Airlines,Russland,Betriebseinstellung 2008
 E3,New Gen Airways,Thailand,
-E4,Aero Asia,Pakistan,Betriebseinstellung 2007
 E4,Enter Air,Polen,
 E4,Estelar Latinoamerica,Venezuela,
 E5,Air Arabia Egypt,Ägypten,
 E6,Bringer Air Cargo Taxi Aereo,Brasilien,
 E7,Equaflight Service,Kongo,
 E7,Estafeta Carga Aerea,Mexiko,
-E8,Alpi Eagles,Italien,Betriebseinstellung 2008
 E9,Evelop Airlines,Spanien,
 EA,Eastern Air Lines (2011),USA,
 EB,Wamos Air,Spanien,
-EC,Avialeasing Aviation,Usbekistan,Code wird nicht mehr genutzt
-EC,Heli-Inter,Frankreich,Code wird nicht mehr genutzt
 EC,OpenSkies,Vereinigtes Königreich,
 ED,Airblue,Pakistan,neuer Code: PA
 ED,AirExplore,Slowakei,
 EF,Fly Caminter,Kamerun,
 EG,East Air,Tadschikistan,
 EG,Enerjet,Kanada,
-EG,Japan Asia Airways,Japan,2008 in Japan Airlines aufgegangen
-EH,Air Nippon Network,Japan,2010 aufgegangen in ANA Wings
 EH,ANA Wings,Japan,
 EI,Aer Lingus,Irland,
-EJ,Air Atlantis,Portugal,1993 integriert in TAP Air Portugal
-EJ,European Cargo Services,Niederlande,"keine Fluggesellschaft, Logistikunternehmen"
-EJ,New England Airlines,USA,Code wird nicht mehr genutzt
 EK,Emirates,Vereinigte Arabische Emirate,
-EL,Air Nippon,Japan,2012 aufgegangen in All Nippon Airways
 EL,Ellinair,Griechenland,
-EL,Export Air Cargo,Peru,1997 umfirmiert zu Cielos del Perú
-EM,Aero Benin,Benin,Code wird nicht mehr genutzt
 EM,Empire Airlines,USA,
 EN,Air Dolomiti,Italien,
-EN,Cal Air International,Vereinigtes Königreich,1988 umfirmiert in Novair International Airways
 EO,Air Go Airlines,Ägypten,
-EO,Hewa Bora Airways,Demokratische Republik Kongo,2012 umfirmiert zu flyCongo
 EP,Iran Aseman Airlines,Iran,
 EQ,TAME,Ecuador,
-ER,DHL Airways,USA,Code wird nicht mehr genutzt
 ES,DHL Aviation,Bahrain,
 ET,Ethiopian Airlines,Äthiopien,
 EU,Chengdu Airlines,China,
-EU,United Eagle Airlines,China,2009 umfirmiert zu Chengdu Airlines
-EV,Atlantic Southeast Airlines,USA,2012 aufgegangen in ExpressJet Airlines
 EV,ExpressJet Airlines,USA,
 EW,Eurowings,Deutschland,
 EX,Thai Express Air,Thailand,
 EY,Etihad Airways,Vereinigte Arabische Emirate,
 EZ,Sun Air of Scandinavia,Dänemark,
-F1,Farelogix,USA,keine Fluggesellschaft
 F2,Falcon Air Express,USA,Betrieb 2015 eingestell
 F2,Safarilink Aviation,Kenia,
 F3,FAI rent-a-jet,Deutschland,
@@ -523,45 +383,30 @@ F4,Air Flamenco,Puerto Rico,
 F5,Aerotrans Cargo,Moldawien,
 F7,Darwin Airline,Schweiz,"Markenauftritt Etihad Regional, vorheriger Code: 0D"
 F8,Flair Airlines,Kanada,
-F8,Flying Carpet Airlines,Libanon,2009 umfirmiert zu Med Airways
 F9,Frontier Airlines,USA,
 FA,Safair,Südafrika,
 FB,Bulgaria Air,Bulgarien,
-FC,Flybe Nordic,Finnland,2015 umfirmiert zu Nordic Regional Airlines
 FC,Viva Colombia,Kolumbien,
 FD,Thai AirAsia,Thailand,
 FE,Far Eastern Air Transport,Taiwan,
-FF,Airshop B.V.,Niederlande,keine Fluggesellschaft
 FG,Ariana Afghan Airlines,Afghanistan,
 FH,Freebird Airlines,Türkei,
 FI,Icelandair,Island,
-FJ,Air Pacific,Fiji,2012 umfirmiert zu Fiji Airways
 FJ,Fiji Airways,Fiji,
 FJ,Fiji Link,Fiji,
-FK,Keewatin Air,Kanada,Code wird nicht mehr genutzt
 FK,KF Cargo,Kanada,
-FL,AirTran Airways,USA,2014 aufgegangen in Southwest Airlines
 FM,FedEx / Federal Express,USA,"Code FM verwendet bis 1994, neuer Code: FX"
 FM,Shanghai Airlines,China,
 FN,Fastjet Airlines,Tansania,
-FP,TAG Aviation,Schweiz,Code wird nicht mehr genutzt
 FR,Ryanair,Irland,
 FS,Syphax Airlines,Tunesien,
 FT,Fly Egypt,Ägypten,
-FT,Flying Tiger Line (Flying Tigers),USA,1989 übernommen von Federal Express
-FV,Pulkovo Airlines,Russland,2006 aufgegangen in Rossija
 FV,Rossija,Russland,
-FV,Viva Air,Spanien,1999 integriert in Iberia
 FW,Ibex Airlines,Japan,
 FX,FedEx / Federal Express,USA,
-FX,German Cargo,Deutschland,1993 umfirmiert zu Lufthansa Cargo
 FY,Firefly,Malaysia,
-FZ,Air Facilities,Australien,Code wird nicht mehr genutzt
-FZ,Broome Aviation,Australien,Code wird nicht mehr genutzt
 FZ,Fly Dubai,Vereinigte Arabische Emirate,
-G2,Avirex,Gabon,2008 umfirmiert zu Jet Express
 G3,Gol Linhas Aéreas,Brasilien,
-G4,Guizhou Airlines,China,1998 aufgegangen in China Southern Airlines
 G4,Allegiant Air,USA,
 G5,China Express Airlines,China,
 G7,GoJet Airlines,USA,
@@ -570,12 +415,10 @@ G9,Air Arabia,Vereinigte Arabische Emirate,
 G9,Gol Linhas Aéreas,Brasilien,neuer Code: G3
 GA,Garuda Indonesia,Indonesien,
 GB,ABX Air,USA,
-GC,Global Feeder Services,Australien,keine Fluggesellschaft
 GE,TransAsia Airways,Republik China (Taiwan),
 GF,Gulf Air,"Bahrain, Katar, Oman, Vereinigte Arabische Emirate",
 GG,Air Guyane,Französisch-Guyana,
 GG,Air Holland,Niederlande,neuer Code: HD
-GG,Cargo 360,USA,2008 aufgegangen in Southern Air
 GG,Sky Lease Cargo,USA,
 GH,Globus Airlines,Russland,
 GJ,Zhejiang Loong Airlines,China,
@@ -586,93 +429,64 @@ GL,Miami Air International,USA,neuer Code: LL
 GM,Germania Flug,Schweiz,
 GM,Tri-MG Intra Asia Airlines,Indonesien,
 GO,ULS Airlines Cargo,Türkei,
-GP,Gestair Executive Jet,Spanien,Code wird nicht mehr genutzt
 GQ,Sky Express SA,Griechenland,
 GR,Aurigny Air Services,Guernsey,
-GS,Grant Aviation,USA,Code wird nicht mehr genutzt
 GS,Tianjin Airlines,China,
 GU,Aviateca,Guatemala,
 GX,GX Airlines,China,
 GY,Colorful Guizhou Airlines,China,
-GY,Guyana Air,Guyana,2001 umfirmiert zu Guyana Air 2000
 GZ,Air Rarotonga,Neuseeland,
-H1,Hahn Air Systems,Deutschland,keine Fluggesellschaft
 H2,Sky Airline,Chile,
-H3,Harbour Air,Kanada,Code wird nicht mehr genutzt
 H5,I-Fly,Russland,neuer Code: I4
 H6,Bulgarian Air Charter,Bulgarien,
-H6,Chelyabinsk Air Enterprise,Russland,2004 aufgegangen in Siberia Airlines
 H6,Hageland Aviation Service,USA,
-H7,Eagle Air,Uganda,Code wird nicht mehr genutzt
 H9,Himalaya Airlines,Nepal,
 H9,Pegasus Airlines,Türkei,neuer Code: PC
 HA,Hawaiian Airlines,USA,
 HB,Asia Atlantic Airlines,Thailand,
-HB,Harbor Airlines,USA,Code wird nicht mehr genutzt
 HD,Air Do,Japan,
-HD,Hokkaido International Airlines,Japan,2012 umfirmiert zu Air Do
 HE,LGW Luftfahrtgesellschaft Walter,Deutschland,
 HF,Air Côte d’Ivoire,Elfenbeinküste,
 HF,Hapag-Lloyd Flug,Deutschland,"jetzt TUIfly, seit Juli 2007 neuer Code: X3"
 HG,Niki Luftfahrt,Österreich,
-HH,Air Hamburg,Deutschland,Code wird nicht mehr genutzt
 HH,Taban Air,Iran,
 HI,Papillon Airways,USA,
-HI,Papillon Crand Canyon Helicopters,USA,umfirmiert zu Papillon Airways
-HJ,Asian Express Airlines,Australien,2008 umfirmiert zu Tasman Cargo Airlines
 HJ,Tasman Cargo Airlines,Australien,
 HK,Skippers Aviation,Australien,
 HK,Yangon Airways,Myanmar,neuer Code: YH
-HL,Holiday Express,Deutschland,1988 integriert in Hamburg Airlines
 HM,Air Seychelles,Seychellen,
-HN,HeavyLift Cargo Airlines,Australien,Code wird nicht mehr genutzt
-HN,NLM City Hopper,Niederlande,1991 aufgegangen in KLM Cityhopper
-HO,Antinea Airlines,Algerien,2001 in Khalifa Airways aufgegangen
 HO,Juneyao Airlines,China,
 HP,Amapola Flyg,Schweden,
-HP,America West Airlines,USA,2006 mit US Airways fusioniert
 HQ,Thomas Cook Belgium Airlines,Belgien,
 HR,Hahn Air Lines,Deutschland,
 HT,Ningxia Cargo Airlines,China,
-HT,Royal Airways,Indien,2005 umfirmiert zu SpiceJet
 HU,Hainan Airlines,China,
 HV,Transavia Airlines,Niederlande,
 HW,North-Wright Airways,Kanada,
-HX,Trans North Aviation,USA,Code wird nicht mehr genutzt
 HX,Hong Kong Airlines,China,
 HY,Uzbekistan Airways,Usbekistan,
 HZ,Aurora Airlines,Russland,
-HZ,SAT Airlines,Russland,2013 aufgegangen in Aurora Airlines
 I2,Iberia Express,Spanien,
 I4,I-Fly,Russland,
 I4,Island Air Express,USA,
 I5,AirAsia India,Indien,
 I7,Inter Îles Air,Komoren,
 I8,Izhavia,Russland,
-I9,Air Italy,Italien,2013 von Meridiana übernommen
-IA,Iraqi Airways,Irak,Code wird nicht mehr genutzt
 IB,Iberia,Spanien,
-IC,Indian Airlines,Indien,2011 in Air India aufgegangen
-ID,Air Normandie,Frankreich,Code wird nicht mehr genutzt
 ID,Batik Air,Indonesien,
 IE,Solomon Airlines,Salomonen,
 IF,Contract Air Cargo,USA,
 IF,Fly Baghdad Airlines,Irak,
-IG,Alisarda,Italien,1991 umfirmiert zu Meridiana
 IG,Meridiana,Italien,
-IJ,Air Liberté,Frankreich,2001 umfirmiert zu Air Lib
 IJ,Spring Airlines Japan,Japan,
 IK,IKAR,Russland,
 IL,Trigana Air Service,Indonesien,
 IL,Aircompany ATMA,Kasachstan,
 IN,NAM Air,Indonesien,
-IP,Inter European Airways,Vereinigtes Königreich,1993 in Airtours International aufgegangen
 IQ,Qazaq Air,Kasachstan,
 IR,Iran Air,Iran,
-IT,Air Inter,Frankreich,1997 integriert in Air France
 IT,Tigerair Taiwan,Taiwan,
 IV,VVB Aviation Malta,Malta,
-IW,AOM French Airlines,Frankreich,2001 aufgegangen in Air Lib
 IW,Wings Abadi Airlines,Indonesien,
 IY,Yemenia,Jemen,
 IZ,Arkia Israeli Airlines,Israel,
@@ -680,51 +494,36 @@ J1,One Jet,USA,
 J2,Azerbaijan Airlines,Aserbaidschan,
 J3,Northwestern Air,Kanada,
 J4,Badr Airlines,Sudan,
-J4,Buffalo Airways,Kanada,Code wird nicht mehr genutzt
 J5,Alaska Seaplane Service,USA,
 J6,Jet Ops,Vereinigte Arabische Emirate,
-J6,Larry’s Flying Service,USA,Code wird nicht mehr genutzt
-J7,ValuJet,USA,"1997 umfirmiert zu AirTran Airways, neuer Code: FL"
 J8,Berjaya Air,Malaysia,
 J9,Jazeera Airways,Kuwait,
-JB,Helijet International,Kanada,Code wird nicht mehr genutzt
 JC,Japan Air Commuter,Japan,
 JD,Beijing Capital Airlines,China,
-JE,Jettainer,Deutschland,"keine Fluggesellschaft, Logistikunternehmen"
 JE,Mango,Südafrika,
 JF,Jetairfly,Belgien,neuer Code: TB
 JG,Jetgo Australia,Australien,
 JH,Fuji Dream Airlines,Japan,
 JI,Meraj Air,Iran,
-JJ,TAM Linhas Aéreas,Brasilien,2016 umfirmiert in LATAM Brasil
 JJ,LATAM Brasil,Brasilien,
 JL,Japan Airlines,Japan,
-JM,Air Jamaica,Jamaika,2011 in Caribbean Airlines aufgegangen
 JP,Adria Airways,Slowenien,
-JP,Inex-Adria Aviopromet,Jugoslawien,1986 umfirmiert zu Adria Airways
 JQ,Jetstar Airways,Australien,
 JQ,Alba Star,Spanien,neuer Code: AP
 JR,Joy Air,China,
 JS,Air Koryo,Nordkorea,
 JT,Lion Air,Indonesien,
 JU,Air Serbia,Serbien,
-JU,JAT Airways,Serbien,2013 umfirmiert zu Air Serbia
-JU,Jugoslovenski Aerotransport,Jugoslawien,2003 umfirmiert zu JAT Airways
 JV,Bearskin Airlines,Kanada,
-JW,Skippers Aviation,Australien,Code wird nicht mehr genutzt
 JW,Vanilla Air,Japan,
 JX,DAC Aviation,Kenia,
-JX,Nice Helicopters,Frankreich,Code wird nicht mehr genutzt
 JY,Inter Caribbean Airways,Turks- und Caicosinseln,
-K1,Topas,Südkorea,"keine Fluggesellschaft, Reservierungssysteme"
 K3,SAC,Kenia,
 K3,Taquan Air,USA,
 K4,Kalitta Air,USA,
 K5,SeaPort Airlines,USA,
-K5,Wings of Alaska,USA,2015 in SeaPort Airlines aufgegangen
 K6,Cambodia Angkor Air,Kambodscha,
 K7,Air KBZ,Myanmar,
-K7,Sakha Avia,Russland,2002 umfirmiert zu Yakutia Airlines
 K8,InterJet West,USA,
 K8,Kan Air,Thailand,
 K9,Kalitta Charters,USA,
@@ -735,31 +534,22 @@ KD,Kal Star Aviation,Indonesien,
 KD,Regional Express Airlines,Australien,neuer Code: ZL
 KD,Western Global Airlines,USA,
 KE,Korean Air,Südkorea,
-KF,Air Botnia,Finnland,2004 umfirmiert zu Blue1
 KF,Blue1,Finnland,
-KG,Caledonian Airways,Vereinigtes Königreich,2000 integriert in JMC Airlines
 KG,Key Lime Air,USA,
-KG,Orion Airways,Vereinigtes Königreich,1989 aufgegangen in Britannia Airways
 KH,Aloha Air Cargo,USA,
 KI,KrasAvia,Russland,
 KJ,Air Incheon,Südkorea,
-KJ,British Mediterranean Airways,Vereinigtes Königreich,2007 integriert in British Midland Airways / bmi
 KK,AtlasGlobal,Türkei,
 KL,KLM - Royal Dutch Airlines,Niederlande,
 KM,Air Malta,Malta,
 KN,China United Airlines,China,
-KN,Maroomba Airlines,Australien,Code wird nicht mehr genutzt
-KN,Moris Air,USA,1995 aufgegangen in Southwest Airlines
 KO,Alaska Central Express,USA,
-KO,Khors Air Company,Ukraine,Code wird nicht mehr genutzt
 KO,Komiaviatrans,Russland,
 KP,Asky,Togo,
 KQ,Kenya Airways,Kenia,
 KR,Air Bishkek,Kirgisistan,
-KR,Karair,Finnland,1990 integriert in Finnair
 KS,Penair,USA,
 KU,Kuwait Airways,Kuwait,
-KW,Kelowna Flightcraft,Kanada,umfirmiert zu KF Cargo
 KW,KAS Air Company,Kirgisistan,Code nicht mehr genutzt
 KX,Cayman Airways,Kaimaninseln,
 KY,Kunming Airlines,China,
@@ -768,22 +558,16 @@ L1,Airlliance,USA,
 L1,Lufthansa Systems,Deutschland,neuer Code: S1
 L2,Lynden Air Cargo,USA,
 L3,DHL de Guatemala,Guatemala,
-L4,Lauda Air Italy,Italien,2003 aufgegangen in Livingston Energy Flight
 L5,Atlantique Air Assistance,Frankreich,
-L5,CHC Helicopter Service,Norwegen,Code wird nicht mehr genutzt
 L6,Mauritania Airlines International,Mauretanien,
 L7,LAN Cargo Colombia,Kolumbien,
 L8,Afric Aviation,Gabun,
-L9,Compagnie Aérienne du Mali,Mali,2009 umfirmiert zu Air Mali
 L9,Bristow US,USA,
 LA,LAN Airlines,Chile,
-LA,Lan Chile,Chile,umfirmiert zu LAN Airlines
 LB,Air Costa,Indien,
 LC,Equatorial Congo Airlines,Kongo,
 LD,Air Hong Kong,Hong Kong,
-LD,Línea Turística Aereotuy,Venezuela,Code wird nicht mehr genutzt
 LF,Corporate Flight Management,USA,
-LF,Linjeflyg,Schweden,1993 aufgegangen in Scandinavian Airlines
 LG,Luxair,Luxemburg,
 LH,Lufthansa,Deutschland,
 LH,Lufthansa Cargo,Deutschland,
@@ -792,22 +576,15 @@ LJ,Jin Air,Südkorea,
 LL,Miami Air International,USA,
 LM,Loganair,Vereinigtes Königreich,
 LN,Libyan Airlines,Libyen,
-LN,Libyan Arab Airlines,Libyen,umfirmiert zu Libyan Airlines
 LO,LOT Polish Airlines / Polskie Linie Lotnicze,Polen,
 LP,LAN Perú,Perú,
 LR,Avianca Costa Rica,Costa Rica,
-LR,Lacsa,Costa Rica,umfirmiert in Avianca Costa Rica
-LS,Channel Express,Vereinigtes Königreich,2006 aufgegangen in Jet2.com
-LS,Iliamna Air Taxi,USA,Code wird nicht mehr genutzt
 LS,Jet2.com,Vereinigtes Königreich,
-LT,LTU,Deutschland,integriert in Air Berlin
 LU,LAN Express,Chile,
 LV,Mega Maldives Airlines,Malediven,
-LX,Crossair,Schweiz,2002 umfirmiert zu Swiss International Air Lines
 LX,Swiss International Air Lines,Schweiz,
 LY,El Al,Israel,
 M0,Aero Mongolia,Mongolei,
-M2,Mahfooz Aviation,Gambia,Code wird nicht mehr genutzt
 M2,MHS Aviation,Deutschland,
 M2,Millon Express,USA,
 M3,North Flying,Dänemark,
@@ -816,13 +593,9 @@ M4,Mistral Air,Italien,
 M5,Kenmore Air,USA,
 M6,Amerijet International,USA,
 M7,MAS Air Cargo,Mexiko,
-M7,Superior Aviation Services,Kenia,Code wird nicht mehr genutzt
 M8,Skyjet Airlines,Philippinen,
-M8,Trans Maldivian Airways,Malediven,Code wird nicht mehr genutzt
 M9,Motor Sich Airlines,Ukraine,
-MB,Execaire,Kanada,Code wird nicht mehr genutzt
 MB,MNG Airlines,Türkei,
-MC,Air Mobility Command,USA,keine Fluggesellschaft
 MD,Air Madagascar,Madagaskar,
 ME,Middle East Airlines (MEA),Libanon,
 MF,Xiamen Airlines,China,
@@ -834,16 +607,10 @@ MM,Euroatlantic Airways,Portugal,neuer Code: YU
 MM,Peach Aviation,Japan,
 MN,Kulula,Südafrika,
 MO,Calm Air,Kanada,
-MO,Abu Dhabi Amiri Flight,Vereinigte Arabische Emirate,Code wird nicht mehr genutzt
 MP,Martinair Holland,Niederlande,
 MQ,Envoy Air,USA,
-MQ,American Eagle Airlines,USA,2014 umfirmiert zu Envoy Air
-MQ,Simmons Airlines,USA,1998 aufgegangen in American Eagle Airlines
 MR,Hunnu Air,Mongolei,
 MS,Egypt Air,Ägypten,
-MT,Flying Colours Airlines,Vereinigtes Königreich,2000 aufgegangen in JMC Airlines
-MT,JMC Airlines,Vereinigtes Königreich,2008 aufgegangen in Thomas Cook Airlines UK
-MT,Thomas Cook Airlines UK,Vereinigtes Königreich,Code wird nicht mehr genutzt
 MU,China Eastern Airlines,China,
 MW,Maya Island Air,Belize,neuer Code: MY
 MW,Mokulele Airlines,USA,
@@ -854,24 +621,17 @@ N2,Trans Mediterranean Airways,Libanon,Flugbetrieb ruht seit 2014
 N3,Aerolíneas Mas,Dominikanische Republik,
 N4,Nordwind Airlines,Russland,
 N5,Nolinor Aviation,Kanada,
-N6,Aero Continente,Perú,2004 umfirmiert zu Nuevo Continente
 N6,Nomad Aviation,Namibia,
 N7,Neptune Air,Malaysia,
-N7,Nordic East Airways,Schweden,1996 umfirmiert zu Nordic European Airlines
 N7,Nordic Regional Airlines,Finnland,
 N8,National Airlines (2007),USA,
 N8,Norwegian Air Shuttle,Norwegen,neuer Code: DY
-N9,Kabo Air,Nigeria,Code wird nicht mehr genutzt
 N9,Novair,Schweden,
-NA,National Airlines,USA,1980 in Pan American World Airways aufgegangen
 NB,Skypower Express Airways,Nigeria,
 NC,Cobham,Australien,
-NC,National Jet Systems,Australien,umfirmiert zu Cobham
 NC,Northern Air Cargo,USA,
 ND,FMI Air,Myanmar,
-ND,Nordair,Kanada,1987 aufgegangen in Canadian Airlines International
 NE,Nesma Airlines,Ägypten,
-NE,Northeast Airlines,USA,1972 aufgegangen in Delta Air Lines
 NF,Air Vanuatu,Vanuatu,
 NG,Aero Contractors,Nigeria,
 NH,All Nippon Airways,Japan,
@@ -882,164 +642,111 @@ NN,VIM Airlines,Russland,
 NO,Neos,Italien,
 NO,Niger Air Cargo,Niger,
 NP,Nile Air,Ägypten,
-NP,Skytrans Airlines,Australien,Code wird nicht mehr genutzt
 NQ,Air Japan,Japan,
 NS,Eurowings,Deutschland,neuer Code: EW
 NS,Hebei Airlines,China,
-NS,Northeast Airlines,China,2010 aufgegangen in Hebei Airlines
-NS,Northeast Airlines,Vereinigtes Königreich,1976 mit British Airways fusioniert
-NS,Nürnberger Flugdienst,Deutschland,umfirmiert zu Eurowings
 NT,Binter Canarias,Spanien,
 NU,Aero Contractors,Nigeria,neuer Code: NG
 NU,Japan Transocean Air,Japan,
-NW,Northwest Airlines / Northwest Orient Airlines,USA,2010 aufgegangen in Delta Air Lines
 NX,Air Macau,Macau,
 NY,Air Iceland,Island,
-NY,New York Air,USA,1987 aufgegangen in Continental Airlines
 NZ,Air New Zealand,Neuseeland,
 O3,Orange Air,USA,
 O3,SF Airlines,China,
-O4,Antrak Air,Ghana,Code wird nicht mehr genutzt
 O6,Avianca Brazil,Brasilien,
-O6,OceanAir,Brasilien,umfirmiert zu Avianca Brazil
 O7,Orenburzhye,Russland,
 O8,Siam Air Transport,Thailand,
 O9,Nova Airways,Sudan,
 OA,Olympic Air,Griechenland,
 OB,Boliviana de Aviación,Bolivien,
-OC,Air California (Air Cal),USA,1987 integriert in American Airlines
-OC,Omni Aviation,Portugal,Code wird nicht mehr genutzt
 OC,Oriental Air Bridge,Japan,
 OD,Malindo Air,Malaysia,
 OH,PSA Airlines,USA,
-OI,Aspiring Air,Neuseeland,Code wird nicht mehr genutzt
 OI,Hinterland Aviation,Australien,
 OJ,Fly Jamaica Airways,Jamaika,
 OK,CSA Czech Airlines,Tschechien,
 OL,Polynesian Airlines,Samoa,
 OM,MIAT Mongolian Airlines,Mongolei,
-ON,Air Nauru,Nauru,2006 umfirmiert zu Our Airline
 ON,Nauru Airlines,Nauru,
-ON,Our Airline,Nauru,2014 umfirmiert Nauru Airlines
 OO,SkyWest Airlines,USA,
 OP,Air Pegasus,Indien,
 OQ,Chongqing Airlines,China,
 OR,TUI Airlines Nederland,Niederlande,
 OS,Austrian Airlines,Österreich,
 OU,Croatia Airlines,Kroatien,
-OV,Aéromaritime International,Frankreich,1991 aufgegangen in Air France
 OX,Orient Thai Airlines,Thailand,
 OY,Andes Líneas Aéreas,Argentinien,
 OY,Omni Air International,USA,
 OZ,Asiana Airlines,Südkorea,
 P0,Proflight Zambia,Sambia,
-P1,Aviation Technologies,USA,keine Fluggesellschaft
 P2,AirKenya Express,Kenia,
-P2,Tyumenaviatrans Aviation,Russland,2003 umfirmiert zu UTair
 P2,UTair,Russland,neuer Code: UT
 P3,CargoLogicAir,Vereinigtes Königreich,
-P3,Premier Trans Aire,USA,Code wird nicht mehr genutzt
-P4,Aerolíneas Sosa,Honduras,Code wird nicht mehr genutzt
-P5,AeroRepública,Kolumbien,2006 umfirmiert zu Copa Airlines Colombia
 P5,Copa Airlines Colombia,Kolumbien,
 P6,Pascan Aviation,Kanada,
 P6,Privilege Style,Spanien,
-P6,Transair,USA,Code wird nicht mehr genutzt
-P7,East Line Airlines,Russland,2004 umfirmiert zu Russian Sky Airlines
-P7,Russian Sky Airlines,Russland,2005 aufgegangen in VIM Airlines
 P7,Small Planet Airlines (Polen),Polen,
 P9,Asia Pacific Airlines,USA,
 P9,Peruvian Airlines,Peru,
 P9,Pro Air,USA,neuer Code: XL
 PA,Airblue,Pakistan,
 PB,Provincial Airlines,Kanada,
-PC,Envirotainer,Schweden,"keine Fluggesellschaft, Hersteller von Kühlcontainern"
-PC,Pacific Air Lines,USA,1968 aufgegangen in Air West
 PC,Pegasus Airlines,Türkei,
 PD,Porter Airlines,Kanada,
 PE,Pacific Air Express,Australien,
-PE,People Express,USA,1987 aufgegangen in Continental Airlines
 PE,People’s Viennaline,Österreich,
-PF,Palestinian Airlines,Palästina,Code wird nicht mehr genutzt
 PF,Primera Air Scandinavia,Dänemark,
 PG,Bangkok Airways,Thailand,
 PH,Phoenix Air,USA,
 PH,Polynesian Airlines,Samoa,neuer Code: OL
-PI,Pacific Sun,Fidschi,"2014 umfirmiert zu Fiji Link, neuer Code: FJ"
-PI,Piedmont Airlines (1948),USA,1989 aufgegangen in USAir
-PI,Sunflower Airlines,Fidschi,2007 umfirmiert zu Pacific Sun
 PJ,Air St. Pierre,Frankreich,
 PK,Pakistan International Airlines,Pakistan,
 PL,Southern Air Charter,Bahamas,
 PM,Canary Fly,Spanien,
-PM,Prescott Support,USA,"keine Fluggesellschaft, Logistikunternehmen"
 PM,Tropic Air,Belize,neuer Code: 9N
 PN,China West Air,China,
 PO,Polar Air Cargo,USA,
 PP,Jet Aviation Business Jets,Schweiz,
 PQ,AirAsia Philippines,Philippinen,
 PR,Philippine Airlines,Philippinen,
-PS,Pacific Southwest Airlines (PSA),USA,1988 aufgegangen in USAir
 PS,Ukraine International Airlines,Ukraine,
 PT,Piedmont Airlines (1993),USA,
-PT,West Air Sweden,Schweden,Code wird nicht mehr genutzt
 PU,Plus Ultra Líneas Aéreas,Spanien,
-PV,Eastern Provincial Airways,Kanada,1986 aufgegangen in CP Air
 PV,PrivatAir,Schweiz,
 PV,Saint Barth Commuter,Frankreich,
-PW,Pacific Western Airlines (PWA),Kanada,1987 aufgegangen in Canadian Airlines International
 PW,Precision Air,Tansania,
 PX,Air Niugini,Papua-Neuguinea,
 PY,Surinam Airways,Surinam,
 PZ,TAM Airlines,Paraguay,
-Q1,Sqiva Sistem,Indonesien,"keine Fluggesellschaft, Reservierungssysteme"
 Q2,Maldivian,Malediven,
 Q5,40-Mile Air,USA,
-Q6,Aero Cóndor Perú,Peru,Code wird nicht mehr genutzt
 Q7,SkyBahamas Airlines,Bahamas,
 Q8,Trans Air Congo,Kongo,
 Q9,Minerva Airlines,Italien,
-QA,Aerocaribe,Mexiko,2005 umfirmiert zu Click Mexicana
 QA,Cimber,Dänemark,
-QA,Click Mexicana,Mexiko,2008 umfirmiert zu MexicanaClick
 QB,Qeshm Airlines,Iran,
-QB,Quebecair,Kanada,1987 in Inter-Canadian aufgegangen
-QC,Air Congo,Zaire,1971 umfirmiert zu Air Zaire
 QC,Camair-Co,Kamerun,
 QD,Transbrasil,Brasilien,Code QD verwendet bis 1982 (danach TR)
 QF,JetConnect,Neuseeland,
 QF,Qantas Airways,Australien,
 QG,Citilink,Indonesien,
-QG,Delta Air Transport,Belgien,2002 umfirmiert zu SN Brussels Airlines
-QG,Dynamic Airlines,Niederlande,Code wird nicht mehr genutzt
 QH,Air Kyrgyzstan,Kirgisistan,
-QH,Pel-Air,Australien,Code wird nicht mehr genutzt
-QI,Cimber Air,Dänemark,2008 umfirmiert zu Cimber Sterling
 QJ,Jetways Airways,USA,
-QK,Aéromaritime,Frankreich,1990 umfirmiert zu Aéromaritime International
 QK,Jazz Aviation,Kanada,
 QL,LASER Airlines,Venezuela,
 QM,Monacair,Monaco,
-QN,Royal Aviation,Kanada,2001 aufgegangen in Canada 3000
 QO,Quikjet Cargo Airlines,Indien,
-QP,Airkenya,Kenia,"2007 umfirmiert zu AirKenya Express, neuer Code: P2"
-QP,Starlight Airlines,Vereinigte Arabische Emirate,"keine Fluggesellschaft, Frachtvermittler"
 QQ,Alliance Airlines,Australien,
 QR,Qatar Airways,Katar,
 QS,Smart Wings,Tschechien,
 QS,Travel Service,Tschechien,
 QT,Avianca Cargo,Kolumbien,
-QT,Regional Air,Papua-Neuguinea,2005 aufgegangen in Hevilift
-QT,Tampa Cargo,Kolumbien,2013 umfirmiert zu Avianca Cargo
 QU,Azur Air Ukraine,Ukraine,
-QU,UTair Ukraine,Ukraine,2015 umfirmiert zu Azur Air Ukraine
 QV,Lao Airlines,Laos,
-QV,Lao Aviation,Laos,2004 umfirmiert zu Lao Airlines
 QW,Qingdao Airlines,China,
 QX,Horizon Air,USA,
 QY,European Air Transport,Deutschland,
 QZ,Indonesia AirAsia,Indonesien,
-R1,Zapways,USA,"keine Fluggesellschaft, Reservierungssystem"
 R2,Orenburg Airlines,Russland,
 R3,Yakutia Airlines,Russland,
 R4,Rossija,Russland,neuer Code: FV
@@ -1047,44 +754,30 @@ R4,RUS Aviation,Vereinigte Arabische Emirate,
 R5,Jordan Aviation,Jordanien,
 R6,DOT LT,Litauen,
 R7,ASERCA Airlines,Venezuela,
-R7,CHEP Aerospace Solutions,Schweiz,keine Fluggesellschaft
-R9,Village Aviation,USA,Code wird nicht mehr genutzt
 RA,Nepal Airlines,Nepal,
 RB,Syrian Arab Airlines,Syrien,
 RC,Atlantic Airways,Färöer,
-RC,Republic Airlines,USA,1986 integriert in Northwest Airlines
 RF,Florida West International,USA,
 RG,Rotana Jet,Vereinigte Arabische Emirate,
-RI,Mandala Airlines,Indonesien,2013 umfirmiert zu Tigerair Mandala
 RJ,Royal Jordanian (Alia),Jordanien,
 RK,R Airlines,Thailand,
 RL,Royal Flight Airlines,Russland,
 RN,Rayani Air,Malaysia,
 RO,TAROM,Rumänien,
 RQ,Kam Air,Afghanistan,
-RR,Royal Air Force,Vereinigtes Königreich,keine Fluggesellschaft
-RS,Oman Royal Flight,Oman,Code wird nicht mehr genutzt
 RT,Rainbow Airlines,Simbabwe,
 RU,AirBridgeCargo,Russland,
 RV,Air Canada rouge,Kanada,
-RW,Air West,USA,1970 umfirmiert zu Hughes Airwest
-RW,Hughes Airwest,USA,1980 integriert in Republic Airlines
-RW,Rheinland Air Service,Deutschland,Code wird nicht mehr genutzt
 RX,Regent Airways,Bangladesch,
 RY,Jiangxi Air,China,
 RY,Royal Wings,Jordanien,
 RZ,Sansa Airlines,Costa Rica,
-S1,Lufthansa Systems,Deutschland,keine Fluggesellschaft
-S2,Air Sahara,Indien,2007 umfirmiert zu JetLite
-S2,JetKonnect,Indien,2014 aufgegangen in Jet Airways
-S2,JetLite,Indien,2012 aufgegangen in JetKonnect
 S3,Santa Barbara Airlines,Venezuela,
 S4,SATA International,Portugal,
 S5,Shuttle America,USA,
 S5,Small Planet Airlines (Litauen),Litauen,
 S6,Sunrise Airways,Haiti,
 S7,S7 Airlines,Russland,
-S7,Siberia Airlines,Russland,2006 umfirmiert zu S7 Airlines
 S8,Sky Capital Airlines,Bangladesch,
 S8,Sounds Air,Neuseeland,
 S9,Silk Road Cargo Business,Usbekistan,
@@ -1104,13 +797,10 @@ SK,SAS Scandinavian Airlines,"Dänemark, Norwegen, Schweden",
 SL,Thai Lion Air,Thailand,
 SM,Air Cairo,Ägypten,
 SN,Brussels Airlines,Belgien,
-SN,SN Brussels Airlines,Belgien,2006 umfirmiert zu Brussels Airlines
 SO,APEX Airlines,Myanmar,
-SO,Superior Aviation,USA,Code wird nicht mehr genutzt
 SP,SATA Air Açores,Portugal,
 SQ,Singapore Airlines,Singapur,
 SQ,Singapore Airlines Cargo,Singapur,
-SS,Corsairfly,Frankreich,umfirmiert zu Corsair International
 SS,Corsair International,Frankreich,
 ST,Germania,Deutschland,
 SU,Aeroflot,Russland,
@@ -1119,37 +809,26 @@ SW,Air Namibia,Namibia,
 SX,SkyWork Airlines,Schweiz,
 SY,Skippers Aviation,Australien,neuer Code: JW
 SY,Sun Country Airlines,USA,
-SZ,China Southwest Airlines,China,2002 aufgegangen in Air China
 SZ,Somon Air,Tadschikistan,
 T0,Avianca Perú,Peru,
-T0,TACA Perú,Peru,2013 umfirmiert zu Avianca Perú
-T1,Tik Systems,Thailand,keine Fluggesellschaft
 T3,Eastern Airways,Vereinigtes Königreich,
 T4,Rhoades Aviation,USA,
 T5,Turkmenistan Airlines,Turkmenistan,
 T6,AirSWIFT,Philippinen,
-T6,Island Transvoyager,Philippinen,2015 umfirmiert zu AirSWIFT
 T7,Transcarga International Airways,Venezuela,
 T7,Twin Jet,Frankreich,
 T8,MCS Aerocarga,Mexiko,
-T9,Aviator Aviation,Schweden,keine Fluggesellschaft
 TA,Avianca El Salvador,El Salvador,
-TA,TACA,El Salvador,2013 umfirmiert zu Avianca El Salvador
 TB,Jetairfly,Belgien,
 TC,Air Tanzania,Tansania,
 TE,SkyTaxi,Polen,
 TF,Malmö Aviation,Schweden,
 TG,Thai Airways International,Thailand,
-TH,British Regional Airlines,Vereinigtes Königreich,2002 aufgegangen in British Airways Citiexpress
 TH,Raya Airways,Malaysia,
-TH,Transmile Air Services,Malaysia,umfirmiert zu Raya Airways
-TI,Baltic International,Lettland,1995 in Air Baltic aufgegangen
 TI,Tailwind Airlines,Türkei,
-TI,Tol Air Services,Puerto Rico,2007 aufgegangen in Four Star Air Cargo
 TJ,Tradewind Aviation,USA,
 TK,Turkish Airlines,Türkei,
 TL,Airnorth,Australien,
-TL,Chartair,Australien,Code wird nicht mehr genutzt
 TM,Linhas Aéreas de Moçambique,Moçambique,
 TN,Air Tahiti Nui,Französisch-Polynesien,
 TO,Transavia France,Frankreich,
@@ -1160,80 +839,54 @@ TS,Air Transat,Kanada,
 TT,Tiger Airways Australia,Australien,
 TU,Tunisair,Tunesien,
 TV,Tibet Airlines,China,
-TV,Virgin Express,Belgien,2006 aufgegangen in SN Brussels Airlines
-TW,Trans World Airlines (TWA),USA,2001 aufgegangen in American Airlines
 TV,T'way Airlines,Südkorea,
 TX,Air Caraïbes,Frankreich,
 TY,Air Calédonie,Frankreich,
-TY,Iberworld,Spanien,"2011 umfirmiert zu Orbest Orizonia Airlines, neuer Code: IP"
-TZ,Air-taxi europe,Deutschland,Code wird nicht mehr genutzt
-TZ,American Trans Air,USA,2003 umfirmiert zu ATA Airlines
 TZ,Scoot,Singapur,
-U1,Videcom International,Vereinigtes Königreich,"keine Fluggesellschaft, Reservierungssysteme"
 U2,EasyJet Airline,Vereinigtes Königreich,
 U4,Buddha Air,Nepal,
-U5,International Business Airlines (IBA),Schweden,Code wird nicht mehr genutzt
 U5,Karinou Airlines,Zentralafrikanische Republik,
 U6,Ural Airlines,Russland,
-U7,USA Jet Airlines,USA,Code wird nicht mehr genutzt
 U8,TUS Airways,Zypern,
 UA,United Airlines,USA,
-UB,Myanma Airways,Myanmar,2015 umfirmiert zu Myanmar National Airlines
 UB,Myanmar National Airlines,Myanmar,
-UC,Fast Air Carrier,Chile,1998 in Ladeco aufgegangen
-UC,Ladeco,Chile,"2001 umfirmiert zu LAN Express, neuer Code: LU"
 UC,LAN Cargo,Chile,
 UD,Hex’Air,Frankreich,
 UE,Ultimate Air Shuttle,USA,
-UF,UM Air,Ukraine,Code wird nicht mehr genutzt
-UG,Sevenair,Tunesien,2011 umfirmiert zu Tunisair Express
-UG,Tuninter,Tunesien,2000 umfirmiert zu Sevenair
 UG,Tunisair Express,Tunesien,
 UH,AtlasGlobal Ukraine,Ukraine,
-UI,Alaska Seaplane Service,USA,Code wird nicht mehr genutzt
 UI,Auric Air Services,Tansania,
 UJ,AlMasria Universal Airlines,Ägypten,
 UJ,USA Jet Airlines,USA,
-UK,AirUK,Vereinigtes Königreich,1998 umfirmiert zu KLM UK
-UK,KLM UK,Vereinigtes Königreich,2000 umfirmiert zu Buzz
 UK,Vistara,Indien,
-UL,Air Lanka,Sri Lanka,1999 umfirmiert zu SriLankan Airlines
 UL,SriLankan Airlines,Sri Lanka,
 UM,Air Zimbabwe,Simbabwe,
-UN,Transaero Airlines,Russland,Betriebseinstellung 2015
 UP,Bahamasair,Bahamas,
 UO,Hong Kong Express Airways,Hongkong,
 UQ,Urumqi Air,China,
 UR,Ukraine International Airlines,Ukraine,neuer Code: PS
-US,US Airways,USA,2013 fusioniert mit American Airlines
-UT,Union de Transports Aériens (UTA),Frankreich,1992 aufgegangen in Air France
 UT,UTair,Russland,
 UU,Air Austral,Frankreich,
-UV,Helicópteros del Sureste,Spanien,Code wird nicht mehr genutzt
 UV,Universal Airways,USA,
 UX,Air Europa,Spanien,
 V0,Conviasa,Venezuela,
-V1,Ibs Software Services,USA,Keine Fluggesellschaft
 V2,Avialeasing Aviation,Usbekistan,
 V3,Carpatair,Rumänien,
 V4,South Airlines,Ukraine,geänderter Code: YG
 V4,Venescar Internacional,Venezuela,
 V6,Aero VIP,Ecuador,2012 Fusion mit AeroGal zu Avianca Ecuador
 V6,VI Airlink,British Virgin Islands,
-V7,Air Sénégal International,Senegal,Betriebseinstellung 2009
 V7,Volotea,Spanien,
 V8,ATRAN,Russland,
 V8,Iliamna Air Taxi,USA,
 VA,Virgin Australia,Australien,
 VA,Virgin Australia Regional Airlines,Australien,
-VA,Virgin Blue,Australien,2011 umfirmiert zu Virgin Australia
 VB,Maersk Air,Dänemark,neuer Code: DM
 VB,Viva Aerobus,Mexiko,
 VC,Via Airlines,USA,
 VD,Air Liberté,Frankreich,neuer Code: IJ
 VG,VLM Airlines,Belgien,
 VH,Aeropostal,Venezuela,
-VI,Vieques Air Link,USA,Code wird nicht mehr genutzt
 VI,Volga-Dnepr Airlines,Ukraine,
 VJ,VietJet Air,Vietnam,
 VK,Air Vallée,Italien,
@@ -1252,38 +905,27 @@ VW,Aeromar,Mexiko,
 VX,Virgin America,USA,
 VY,Vueling Airlines,Spanien,
 VZ,Aero VIP,Uruguay,
-VZ,Airtours International,Vereinigtes Königreich,2002 umfirmiert zu MyTravel Airways
-VZ,MyTravel Airways,Vereinigtes Königreich,2008 aufgegangen in Thomas Cook Airlines UK
 VZ,Thai Vietjet Air,Thailand,
-W1,World Ticket,Dänemark,keine Fluggesellschaft
 W2,FlexFlight ApS,Dänemark,
 W3,Arik Air,Nigeria,
 W4,LC Perú,Peru,
-W4,M&N Aviation,USA,Code wird nicht mehr genutzt
 W5,Mahan Air,Iran,
 W6,Wizz Air,Ungarn,
 W7,Wings of Lebanon,Libanon,
 W8,Cargojet Airways,Kanada,
 W9,Air Bagan,Myanmar,
 WA,KLM Cityhopper,Niederlande,
-WA,Western Airlines,USA,1987 aufgegangen in Delta Air Lines
 WB,RwandAir,Ruanda,
 WC,Isleña Airlines,Honduras,
-WD,Wardair Canada,Kanada,1990 fusioniert mit Canadian Airlines
 WE,Centurion Air Cargo,USA,
-WE,Challenge Air Cargo,USA,umfirmiert zu Centurion Air Cargo
 WE,Thai Smile Airways,Thailand,
 WF,Widerøe’s Flyveselskap,Norwegen,
 WG,Sunwing Airlines,Kanada,
-WG,Wasaya Airways,Kanada,Code wird nicht mehr genutzt
-WH,China Northwest Airlines,China,2002 aufgegangen in China Eastern Airlines
 WH,Westair Bénin,Benin,
 WI,Sky Lease Cargo,USA,neuer Code: GG
-WI,Tradewinds Airlines,USA,umfirmiert zu Sky Lease Cargo
 WI,White Airways,Portugal,
 WJ,Air Labrador,Kanada,
 WK,Edelweiss Air,Schweiz,
-WK,Greenair,Türkei,1994 umfirmiert zu Active Air
 WM,Winair,Niederländische Antillen,
 WN,Southwest Airlines,USA,
 WP,Island Air,USA,
@@ -1291,77 +933,52 @@ WQ,Swift Air,USA,
 WR,WestJet Encore,Kanada,
 WS,Westjet Airlines,Kanada,
 WT,Swiftair,Spanien,
-WU,Wuhan Airlines,China,2003 aufgegangen in China Eastern Airlines
 WV,Aero VIP,Portugal,
 WW,WOW air,Island,
 WX,Cityjet,Irland,
 WY,Oman Air,Oman,
-WZ,Acvila Air,Rumänien,2006 aufgegangen in JeTran Air
 WZ,Red Wings Airlines,Russland,
 X3,Hapag-Lloyd Express,Deutschland,jetzt TUIfly
 X3,TUIfly,Deutschland,
 X4,Air Excursion,USA,
-X7,Chitaavia,Russland,2004 aufgegangen in VIM Airlines
 X7,Exec Air,Nepal,
 X7,Zambia Skyways,Sambia,neuer Code: K8
-X7,Airmax Cargo,Peru,"keine Fluggesellschaft, Logistikunternehmen"
 X9,Avion Express,Litauen,
 X9,Khors Air Company,Ukraine,neuer Code: KO
 X9,Omni Air International,USA,neuer Code: OY
 X9,Avion Express,Litauen,
-XA,ARINC,USA,"keine Fluggesellschaft, Flugsysteme"
-XB,IATA,Kanada,"keine Fluggesellschaft, internationaler Dachverband der Luftfahrtindustrie"
 XC,Corendon Airlines,Türkei,
-XC,KD Air,Kanada,Code wird nicht mehr genutzt
-XD,Airlines for America,USA,"keine Fluggesellschaft, Dachverband der US-amerikanischen Fluggesellschaften"
-XF,Vladivostok Avia,Russland,2014 in Aurora Airlines aufgegangen
 XG,Sunexpress Deutschland,Deutschland,
-XH,Global Supply Systems,Großbritannien,Betriebseinstellung 2010
-XH,Special Ground Handling Service,USA,keine Fluggesellschaft
-XI,Aeronautical Telecommunications (AEROTEL),Jamaica,"keine Fluggesellschaft, Kommunikationssysteme"
 XJ,Thai AirAsia X,Thailand,
-XK,CCM Airlines,Frankreich,2010 umfirmiert zu Air Corsica
 XK,Air Corsica,Frankreich,
 XL,LAN Ecuador,Ecuador,
-XM,Alitalia Express,Italien,2015 aufgegangen in Alitalia
-XM,J-Air,Japan,Code wird nicht mehr genutzt
-XO,China Xinjiang Airlines,China,2003 aufgegangen in China Southern Airlines
 XO,South East Asian Airlines International,Philippinen,
 XQ,Sunexpress,Türkei,
 XR,Virgin Australia Regional Airlines,Australien,neuer Code: VA
-XR,Skywest Airlines,Australien,2013 umfirmiert zu Virgin Australia Regional Airlines
-XS,SITA,Belgien,"keine Fluggesellschaft, Kommunikationssysteme"
 XT,Indonesia AirAsia X,Indonesien,
 XU,African Express Airways,Kenia,
 XW,NokScoot,Thailand,
 XY,Flynas,Saudi-Arabien,
 XZ,South African Express Airways,Südafrika,
-Y1,Travel Technology Interactive,Frankreich,keine Fluggesellschaft
 Y2,Air Century,Dominikanische Republik,
 Y4,Volaris,Mexiko,
 Y5,Golden Myanmar Airlines,Myanmar,
 Y6,AB Aviation,Komoren,
 Y6,Europe Elite,Vereinigtes Königreich,"2001 aufgelöst, Betrieb nie aufgenommen"
-Y7,Med Airways,Libanon,Code wird nicht mehr genutzt
 Y7,NordStar,Russland,
 Y8,Passaredo Linhas Aéreas,Brasilien,neuer Code: 2Z
 Y8,Yangtze River Express,China,
 Y9,Kish Air,Iran,
-YA,Yeti Airlines,Nepal,Code wird nicht mehr genutzt
 YB,Borajet,Türkei,
 YB,South African Express Airways,Südafrika,neuer Code: XZ
 YC,Yamal Airlines,Russland,
 YD,Synergy Aviation,Vereinigtes Königreich,
 YE,Yanair,Ukraine,
-YF,Department of National Defence,Kanada,keine Fluggesellschaft
 YG,YTO Express Airlines,China,
 YH,Sunsplash Aviation,USA,
 YH,Yangon Airways,Myanmar,
-YI,Air Sunshine,USA,Code wird nicht mehr genutzt
 YI,Yunnan Ying'An Airlines,China,
-YJ,AMC Aviation,Ägypten,Code wird nicht mehr genutzt
 YJ,Asian Wings Airways,Myanmar,
-YJ,National Airways Corporation,Südafrika,Code wird nicht mehr genutzt
 YK,Avia Traffic Company,Kirgisistan,
 YL,Libyan Wings,Libyen,
 YL,Yamal Airlines,Russland,neuer Code: YC
@@ -1369,28 +986,22 @@ YM,Montenegro Airlines,Montenegro,
 YN,Air Creebec,Kanada,
 YO,Heli Air Monaco,Monaco,
 YP,Perimeter Aviation,Kanada,
-YQ,Helikopterservice Euro Air,Schweden,Code wird nicht mehr genutzt
 YR,Scenic Airlines,USA,
 YS,HOP!-Régional,,
-YS,Régional,Frankreich,2013 umfirmiert zu HOP!-Régional
 YU,EuroAtlantic Airways,Portugal,
-YV,go!,USA,2014 in Meas Airlines integriert
 YV,Mesa Airlines,USA,
 YW,Air Nostrum,Spanien,
 YX,Republic Airlines,USA,
 YX,Alas Uruguay,Uruguay,
 Z2,AirAsia Zest,Philippinen,
 Z3,PM Air,USA,
-Z3,Pro Mech Air,USA,umfirmiert zu PM Air
 Z4,Zagrosjet,Irak,
 Z5,Global Africa Aviation,Simbabwe,
 Z6,Dniproavia,Ukraine,
 Z8,Línea Aérea Amaszonas,Bolivien,
 Z8,Pulkovo Aviation Enterprise,Russland,neuer Code: FV
 Z9,Bek Air,Kasachstan,
-ZA,Astair Airlines,Russland,2005 umfirmiert zu Interavia Airlines
 ZA,Sky Angkor Airlines,Kambodscha,
-ZB,Monarch Airlines,Vereinigtes Königreich,Code wird nicht mehr genutzt
 ZD,EWA Air,Frankreich,
 ZE,Eastar Jet,Südkorea,
 ZF,Azur Air,Russland,
@@ -1398,15 +1009,12 @@ ZF,Safari Express Cargo,Kenia,
 ZG,Groznyy Avia,Russland,
 ZH,Shenzhen Airlines,China,
 ZI,Aigle Azur,Frankreich,
-ZJ,Air Routing International,USA,keine Fluggesellschaft
 ZK,Great Lakes Airlines,USA,
 ZK,ZetAvia,Ukraine,
 ZL,Hazelton Airlines,Australien,jetzt Regional Express Airlines
 ZL,Regional Express (Fluggesellschaft),Australien,
 ZM,Air Manas,Kirgisistan,
-ZN,Eagle Airlines,Österreich,Code wird nicht mehr genutzt
 ZN,Naysa,Spanien,
-ZO,Ozark Air Lines,USA,1986 in Trans World Airlines aufgegangen
 ZP,Air St. Thomas,USA,
 ZP,Amaszonas del Paraguay,Paraguay,
 ZP,Silk Way Airlines,Aserbaidschan,
