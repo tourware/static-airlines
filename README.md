@@ -9,6 +9,9 @@
 </p>
 ---
 
+## Install ##
+Via bower `bower install TypischTouristik/static-airlines`
+
 ## Usage ##
 Add the `airline.css` to your project. Add a class `i-airline-{Airline Code}` wherever you want to use the airline logo. Let's take a look at the example for "Air Berlin":
 
