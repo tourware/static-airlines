@@ -1,6 +1,7 @@
 
 .i-airline {
   background-image: url('../images/airline.png');
+  display: inline-block;
 }
 
 .i-airline-kx {
