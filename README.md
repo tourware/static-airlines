@@ -8,6 +8,8 @@
   Liste alle Airlines inkl. Airline Code, Name, Land, Kommentar und Logo.
 </p>
 ---
+## Install ##
+`bower install tt-static-airlines --save`
 
 ## Usage ##
 Add the `airline.css` to your project. Add a class `i-airline-{Airline Code}` wherever you want to use the airline logo. Let's take a look at the example for "Air Berlin":
