@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.typisch-touristik.de">
-    <img alt="Typisch Touristik" src="https://s3.eu-central-1.amazonaws.com/typischtouristik/logo_typisch-touristik_1200x443.png" width="200">
+  <a href="https://tourware.net">
+    <img alt="tourware GmbH" src="https://tourware.net/wp-content/uploads/2020/11/favicon-256x256_weiss.jpg" width="200">
   </a>
 </p>
 
